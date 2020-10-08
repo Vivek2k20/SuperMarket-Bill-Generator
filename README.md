@@ -1,0 +1,2 @@
+# SuperMarket-Bill-Generator
+Created in 2nd Semester. This code allows the customer to choose 2 products,'A' and 'B'. In product 'A', Customer has the choice to choose between 3 Brands of different prices. Similarly in product 'B',Customer has the choice to choose between 2 Brands of different prices.  Quantities of each order is also considered and a Bill Amount is calculated levying 10% taxes. This Bill is Displayed.
